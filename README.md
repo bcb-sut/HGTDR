@@ -16,3 +16,5 @@ matplotlib==3.5.1
 scikit-learn==1.0.2
 
 pickle5
+
+## Data available at: https://dml.ir/HGTDR_data
