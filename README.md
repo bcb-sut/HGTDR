@@ -1,4 +1,4 @@
-# Source code for "HGTDR: Heterogeneous Knowledge Graph-Based Drug Repurposing with Heterogeneous Graph Transformer"
+# Source code for "HGTDR: Advancing Drug Repurposing with Heterogeneous Graph Transformers"
 Requirements:
 
 torch==1.13.1
